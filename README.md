@@ -12,7 +12,7 @@ Running the simulation code requires:
 * `r` (dependencies: igraph, dplyr, reshape2)
 
 ## Simulations reported in our article
-In our article, *Cultural Selection Shapes Network Structure*, we report results for the following iterations of the model:
+In our article, *Cultural Selection Shapes Network Structure* (https://www.biorxiv.org/content/early/2018/11/08/464883), we report results for the following iterations of the model:
 
 1. Social learning dynamics for **fixed simple graphs**
 2. Social learning dynamics for dynamic complex networks with **fixed linking parameters**
